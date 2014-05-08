@@ -13,7 +13,7 @@
         root.returnExports = factory();
   }
 }(this, function () {
-    var emojis = {{data}},
+    var emojis = "{{data}}",
         test = /\:[a-z0-9_\-\+]+\:/g;
 
     function emoji(someString, url, size) {
@@ -25,7 +25,7 @@
                 return match;
             }
         });
-    };
+    }
 
     return emoji;
 }));

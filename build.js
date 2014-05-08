@@ -1,22 +1,11 @@
-var fs = require('fs'),
-    template = fs.readFileSync(__dirname + '/template.js').toString(),
-    types = [
-        'emoticons',
-        'nature',
-        'objects',
-        'people',
-        'places',
-        'symbols'
-    ],
-    all = [];
+var fs = require('graceful-fs');
+var path = require('path');
+var images = fs.readdirSync(__dirname + '/pngs');
+var template = fs.readFileSync(__dirname + '/template.js').toString();
+var all = [];
 
-types.forEach(function (type) {
-    var object = JSON.parse(fs.readFileSync('json/' + type + '.json').toString());
-    all = all.concat(Object.keys(object));
+images.forEach(function (image, index) {
+    all[index] = ':' + path.basename(image, '.png') + ':';
 });
 
-all.forEach(function (item, index) {
-    all[index] = ':' + all[index] + ':';
-});
-
-fs.writeFileSync('emoji-images.js', template.replace("{{data}}", JSON.stringify(all)), 'utf-8');
+fs.writeFileSync('emoji-images.js', template.replace('"{{data}}"', JSON.stringify(all)), 'utf-8');

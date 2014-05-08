@@ -1,15 +1,23 @@
 {
-    "name": "emoji-images",
-    "version": "0.1.1",
-    "author": "Henrik Joreteg <henrik@andyet.net>",
-    "description": "Replace stuff like :smiley: in text with <img> tags of a corresponding image.",
-    "repository": {
-        "type": "git", 
-        "url": "git@github.com:henrikjoreteg/emoji-images.js.git"
-    },
-    "devDependencies": {
-        "async": "",
-        "request": ""
-    },
-    "main": "emoji-images.js"
+  "name": "emoji-images",
+  "description": "Replace stuff like :smiley: in text with <img> tags of a corresponding image.",
+  "version": "0.2.0",
+  "author": "Henrik Joreteg <henrik@andyet.net>",
+  "devDependencies": {
+    "async": "^0.8.0",
+    "github": "^0.1.16",
+    "graceful-fs": "^2.0.3",
+    "jshint": "^2.5.0",
+    "precommit-hook": "^1.0.2"
+  },
+  "main": "emoji-images.js",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:henrikjoreteg/emoji-images.js.git"
+  },
+  "scripts": {
+    "clean": "rm -rf ./pngs && mkdir pngs && node scraper && node build",
+    "scrape": "node scraper",
+    "build": "node build"
+  }
 }
