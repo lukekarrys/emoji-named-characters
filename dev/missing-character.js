@@ -20,6 +20,5 @@ module.exports=[
   "speaker",
   "squirrel",
   "suspect",
-  "trollface",
-  "uk"
+  "trollface"
 ];

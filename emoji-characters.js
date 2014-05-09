@@ -849,5 +849,6 @@ module.exports = {
     "x": "❌",
     "poop": "💩",
     "shit": "💩",
-    "raised_hand": "🙋"
+    "raised_hand": "🙋",
+    "uk": "🇬"
 };
