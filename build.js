@@ -24,7 +24,7 @@ fs.writeFileSync(
 
 var missingTitle = '## Missing Emoji Characters';
 var missingImages = missingCharacters.map(function (missing) {
-    return '- ![' + missing + '](https://github.com/lukekarrys/emoji-named-characters/pngs/' + missing + '.png)';
+    return '- ![' + missing + '](https://raw.githubusercontent.com/lukekarrys/emoji-named-characters/master/pngs/' + missing + '.png)';
 });
 var splitReadme = readme.split(missingTitle);
 fs.writeFileSync(
