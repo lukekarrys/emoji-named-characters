@@ -24,12 +24,12 @@ fs.writeFileSync(
 
 var missingTitle = '## Missing Emoji Characters';
 var missingImages = missingCharacters.map(function (missing) {
-    return '- ![' + missing + '](https://raw.githubusercontent.com/lukekarrys/emoji-named-characters/master/pngs/' + missing + '.png)';
+    return '![' + missing + '](https://raw.githubusercontent.com/lukekarrys/emoji-named-characters/master/pngs/' + missing + '.png)';
 });
 var splitReadme = readme.split(missingTitle);
 fs.writeFileSync(
     __dirname + '/readme.md',
-    splitReadme[0] + missingTitle + '\n\n' + missingImages.join('\n') + '\n',
+    splitReadme[0] + missingTitle + '\n\n' + missingImages.join(' ') + '\n',
     {encoding: 'utf8'}
 );
 
