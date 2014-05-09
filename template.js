@@ -10,24 +10,15 @@
         define(factory);
     } else {
         // Browser globals (root is window)
-        root.returnExports = factory();
+        root.emoji = factory();
   }
 }(this, function () {
-    var emojis = "{{data}}",
-        test = /\:[a-z0-9_\-\+]+\:/g;
-
-    function emoji(someString, url, size) {
-        return someString.replace(test, function (match) {
-            if (emojis.indexOf(match) !== -1) {
-                var name = String(match).slice(1, -1);
-                return '<img class="emoji" title=":' + name + ':" alt="' + name + '" src="' + url + '/' + encodeURIComponent(name) + '.png"' + (size ? (' height="' + size + '"') : '') + ' />';
-            } else {
-                return match;
-            }
-        });
-    }
-
-    emoji.list = emojis;
-
-    return emoji;
+    var names = "{{names}}";
+    var mapping = "{{mapping}}";
+    var missing = "{{missing}}";
+    return {
+        names: names,
+        mapping: mapping,
+        missing: missing
+    };
 }));

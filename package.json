@@ -1,19 +1,31 @@
 {
-  "name": "emoji-images",
-  "description": "Replace stuff like :smiley: in text with <img> tags of a corresponding image.",
-  "version": "0.2.0",
-  "author": "Henrik Joreteg <henrik@andyet.net>",
+  "name": "emoji-named-characters",
+  "description": "A mapping of emoji names to their characters, as well as images.",
+  "version": "0.0.1",
+  "author": "Luke Karrys <luke@lukekarrys.com>",
+  "bugs": {
+    "url": "https://github.com/lukekarrys/emoji-named-characters/issues"
+  },
   "devDependencies": {
     "async": "^0.8.0",
+    "emojize": "^0.1.0",
     "github": "^0.1.16",
     "graceful-fs": "^2.0.3",
+    "img-diff": "^0.1.2",
     "jshint": "^2.5.0",
-    "precommit-hook": "^1.0.2"
+    "precommit-hook": "^1.0.2",
+    "underscore": "^1.6.0"
   },
-  "main": "emoji-images.js",
+  "homepage": "https://github.com/lukekarrys/emoji-named-characters",
+  "keywords": [
+    "emoji",
+    "characters"
+  ],
+  "license": "MIT",
+  "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "git@github.com:henrikjoreteg/emoji-images.js.git"
+    "url": "git@github.com:lukekarrys/emoji-named-characters.js.git"
   },
   "scripts": {
     "clean": "rm -rf ./pngs && mkdir pngs && node scraper && node build",
