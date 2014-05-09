@@ -850,5 +850,9 @@ module.exports = {
     "poop": "💩",
     "shit": "💩",
     "raised_hand": "🙋",
-    "uk": "🇬"
+    "uk": "🇬",
+    "loop": "➿",
+    "speaker": "🔉",
+    "hocho": "🔪",
+    "busstop": "🚏"
 };

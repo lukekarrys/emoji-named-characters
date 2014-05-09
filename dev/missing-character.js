@@ -1,14 +1,11 @@
 module.exports=[
   "bowtie",
-  "busstop",
   "feelsgood",
   "finnadie",
   "fu",
   "goberserk",
   "godmode",
-  "hocho",
   "hurtrealbad",
-  "loop",
   "metal",
   "neckbeard",
   "octocat",
@@ -17,7 +14,6 @@ module.exports=[
   "rage3",
   "rage4",
   "shipit",
-  "speaker",
   "squirrel",
   "suspect",
   "trollface"
