@@ -15,7 +15,6 @@ Two things:
 
 Support for browserify, amd, or a browser global. You will get an object with the following properties:
 
-- `names`: An array of all the names of the emojis
 - `mapping`: An object with the keys being the names and the values being the emoji characters
 - `missing`: An array of names that don't exist as emoji characters (or I couldn't find them).
 

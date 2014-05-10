@@ -36,7 +36,6 @@ fs.writeFileSync(
 fs.writeFileSync(
     'index.js',
     template
-        .replace('"{{names}}"', JSON.stringify(names))
         .replace('"{{mapping}}"', JSON.stringify(characters))
         .replace('"{{missing}}"', JSON.stringify(missingCharacters)),
     {encoding: 'utf8'}

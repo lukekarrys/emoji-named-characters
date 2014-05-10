@@ -14,7 +14,6 @@
   }
 }(this, function () {
     return {
-        names: "{{names}}",
         mapping: "{{mapping}}",
         missing: "{{missing}}"
     };
