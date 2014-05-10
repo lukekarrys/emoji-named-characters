@@ -13,12 +13,9 @@
         root.emoji = factory();
   }
 }(this, function () {
-    var names = "{{names}}";
-    var mapping = "{{mapping}}";
-    var missing = "{{missing}}";
     return {
-        names: names,
-        mapping: mapping,
-        missing: missing
+        names: "{{names}}",
+        mapping: "{{mapping}}",
+        missing: "{{missing}}"
     };
 }));

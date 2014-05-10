@@ -12,14 +12,12 @@ var user = 'hassankhan';
 var repo = 'emojify.js';
 var repoPath = 'images/emoji';
 
-
 if (process.env.TOKEN) {
     github.authenticate({
         type: 'oauth',
         token: process.env.TOKEN
     });
 }
-
 
 github.repos.getContent({
     user: user,
