@@ -604,7 +604,7 @@ module.exports = {
     "rage": "😡",
     "railway_car": "🚋",
     "rainbow": "🌈",
-    "raised_hand": "🙋",
+    "raised_hand": "✋",
     "raised_hands": "🙌",
     "raising_hand": "🙋",
     "ram": "🐏",
