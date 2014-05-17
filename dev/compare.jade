@@ -1,0 +1,23 @@
+doctype html
+html(lang="en")
+  head
+    meta(charset="utf-8")
+    title Image vs Unicode
+    script(src="jquery.js")
+    script(src="save.js")
+    style.
+      * {box-sizing: border-box; margin: 0; padding: 0;}
+      li {list-style: none; font-size: 64px; text-align: center; border-bottom: 1px solid #000; padding: 10px 0;}
+      li span {position: relative; top: -7px;}
+      input[type="text"] {font-size: 49px; width: 130px; text-align: center;}
+      h2 {font-size: 64px;}
+  body
+    ul
+      - each e in emoji
+        li
+          h2= e.name
+          span #{e.unicode}
+          img(src=e.img)
+          form(id=e.name)
+            input(type="text", name="unicode", value=e.unicode)
+            input(type="submit", value="Submit")
