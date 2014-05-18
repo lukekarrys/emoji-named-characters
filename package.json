@@ -31,8 +31,8 @@
     "url": "git@github.com:lukekarrys/emoji-named-characters.js.git"
   },
   "scripts": {
-    "clean": "rm -rf ./pngs && mkdir pngs && node scraper && node build",
-    "scrape": "node scraper",
+    "clean": "rm -rf ./pngs && mkdir pngs && npm run scrape",
+    "scrape": "node dev/scraper",
     "build": "node build"
   }
 }

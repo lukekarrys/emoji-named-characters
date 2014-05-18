@@ -18,7 +18,7 @@ _.each(images, function (image) {
 
 fs.writeFileSync(
     __dirname + '/dev/missing-character.js',
-    'module.exports=' + JSON.stringify(missingCharacters, null, 2) + ';',
+    'module.exports = ' + JSON.stringify(missingCharacters, null, 2) + ';',
     {encoding: 'utf8'}
 );
 
