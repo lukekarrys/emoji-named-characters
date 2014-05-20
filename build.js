@@ -1,29 +1,26 @@
 var fs = require('graceful-fs');
 var _ = require('underscore');
 var path = require('path');
-var images = fs.readdirSync(__dirname + '/pngs');
+var names = _.compact(fs.readdirSync(__dirname + '/pngs').map(function (i) {
+    return i.indexOf('.png') > -1 ? path.basename(i, '.png') : null;
+}));
 var characters = require('./emoji-characters');
 var template = fs.readFileSync(__dirname + '/template.js').toString();
 var readme = fs.readFileSync(__dirname + '/readme.md').toString();
-var names = [];
-var missingCharacters = [];
 
-_.each(images, function (image) {
-    var name = path.basename(image, '.png');
-    names.push(name);
-    if (!characters[name]) {
-        missingCharacters.push(name);
-    }
-});
+var missingFromCharacters = _.difference(names, _.keys(characters));
+var missingFromImages = _.difference(_.keys(characters), names);
+
+// TODO: remove missingFromImages from characters
 
 fs.writeFileSync(
     __dirname + '/dev/missing-character.js',
-    'module.exports = ' + JSON.stringify(missingCharacters, null, 2) + ';',
+    'module.exports = ' + JSON.stringify(missingFromCharacters, null, 2) + ';',
     {encoding: 'utf8'}
 );
 
 var missingTitle = '## Missing Emoji Characters';
-var missingImages = missingCharacters.map(function (missing) {
+var missingImages = missingFromCharacters.map(function (missing) {
     return '![' + missing + '](https://raw.githubusercontent.com/lukekarrys/emoji-named-characters/master/pngs/' + missing + '.png)';
 });
 var splitReadme = readme.split(missingTitle);
@@ -37,6 +34,6 @@ fs.writeFileSync(
     'index.js',
     template
         .replace('"{{mapping}}"', JSON.stringify(characters))
-        .replace('"{{missing}}"', JSON.stringify(missingCharacters)),
+        .replace('"{{missing}}"', JSON.stringify(missingFromCharacters)),
     {encoding: 'utf8'}
 );

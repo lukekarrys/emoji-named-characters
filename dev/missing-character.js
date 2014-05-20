@@ -1,5 +1,4 @@
-module.exports=[
-  "109",
+module.exports = [
   "bowtie",
   "feelsgood",
   "finnadie",
@@ -17,5 +16,6 @@ module.exports=[
   "shipit",
   "squirrel",
   "suspect",
-  "trollface"
+  "trollface",
+  "white_large_square"
 ];
