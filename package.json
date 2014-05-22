@@ -1,7 +1,7 @@
 {
   "name": "emoji-named-characters",
   "description": "A mapping of emoji names to their characters, as well as images.",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "author": "Luke Karrys <luke@lukekarrys.com>",
   "bugs": {
     "url": "https://github.com/lukekarrys/emoji-named-characters/issues"
@@ -33,7 +33,7 @@
   "scripts": {
     "compare": "node dev/compare/compare",
     "clean": "rm -rf ./pngs && mkdir pngs && npm run scrape",
-    "scrape": "node dev/scraper",
+    "scrape": "node scraper",
     "build": "node build"
   }
 }
