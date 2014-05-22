@@ -4,6 +4,7 @@ var path = require('path');
 var names = _.compact(fs.readdirSync(__dirname + '/pngs').map(function (i) {
     return i.indexOf('.png') > -1 ? path.basename(i, '.png') : null;
 }));
+var save = require('./dev/save-characters');
 var characters = require('./emoji-characters');
 var template = fs.readFileSync(__dirname + '/template.js').toString();
 var readme = fs.readFileSync(__dirname + '/readme.md').toString();
@@ -11,7 +12,11 @@ var readme = fs.readFileSync(__dirname + '/readme.md').toString();
 var missingFromCharacters = _.difference(names, _.keys(characters));
 var missingFromImages = _.difference(_.keys(characters), names);
 
-// TODO: remove missingFromImages from characters
+// Remove missingFromImages from characters
+_.each(missingFromImages, function (i) {
+    delete characters[i];
+    save(null, i, null, true);
+});
 
 fs.writeFileSync(
     __dirname + '/dev/missing-character.js',

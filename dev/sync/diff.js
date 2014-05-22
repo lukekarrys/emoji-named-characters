@@ -2,8 +2,8 @@ var fs = require('fs');
 var imgDiff = require('img-diff').imagesMatch;
 
 module.exports = function (unicode, name, tolerance, writeFile) {
-    var one = fs.readFileSync(__dirname + '/../node_modules/emojize/img/' + unicode + '.png', {encoding: 'base64'});
-    var two = fs.readFileSync(__dirname + '/../pngs/' + name + '.png', {encoding: 'base64'});
+    var one = fs.readFileSync(__dirname + '/../../node_modules/emojize/img/' + unicode + '.png', {encoding: 'base64'});
+    var two = fs.readFileSync(__dirname + '/../../pngs/' + name + '.png', {encoding: 'base64'});
     var diffDir = __dirname + '/diffs/' + name;
     var msgPrefix = name + ' vs ' + unicode + ' -- ';
     var err = null;

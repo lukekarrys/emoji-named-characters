@@ -17,11 +17,11 @@ var useDiff = process.argv.join(' ').indexOf('--diff') > -1;
 var forceMatch = process.argv.join(' ').indexOf('--force') > -1;
 var tolerance = useDiff ? 10 : 0;
 
-var codes = require('../emoji-characters');
-var currentMissingImages = require('./missing-characters');
+var codes = require('../../emoji-characters');
+var currentMissingImages = require('./missing-character');
 
-var codePath = __dirname + '/node_modules/emojize/img/';
-var emojiCodes = _.invert(require('./node_modules/emojize/lib/emoji'));
+var codePath = __dirname + '/../../node_modules/emojize/img/';
+var emojiCodes = _.invert(require('../../node_modules/emojize/lib/emoji'));
 var diffs = {};
 var forceMatches = [];
 
@@ -99,8 +99,8 @@ _.each(currentMissingImages, function (emojiName) {
 
     currentMissingImages = _.uniq(currentMissingImages).sort();
 
-    fs.writeFileSync(__dirname + '/../emoji-characters.js', 'module.exports = ' + JSON.stringify(codes, null, 2) + ';', {encoding: 'utf8'});
-    fs.writeFileSync(__dirname + '/missing-characters.js', 'module.exports = ' + JSON.stringify(currentMissingImages, null, 2) + ';', {encoding: 'utf8'});
+    fs.writeFileSync(__dirname + '/../../emoji-characters.js', 'module.exports = ' + JSON.stringify(codes, null, 2) + ';', {encoding: 'utf8'});
+    fs.writeFileSync(__dirname + '/../missing-character.js', 'module.exports = ' + JSON.stringify(currentMissingImages, null, 2) + ';', {encoding: 'utf8'});
 
     console.log('-------------------');
 });

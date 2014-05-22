@@ -1,10 +1,12 @@
-module.exports = function (emojiPath, name, character) {
+module.exports = function (emojiPath, name, character, del) {
     var emoji = require(emojiPath || '../emoji-characters');
     var fs = require('fs');
     var sorted = {};
     var fileString = '';
 
-    if (name && character) {
+    if (name && del) {
+        delete emoji[name];
+    } else if (name && character) {
         emoji[name] = character;
     }
 

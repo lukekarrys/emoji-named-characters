@@ -16,6 +16,5 @@ module.exports = [
   "shipit",
   "squirrel",
   "suspect",
-  "trollface",
-  "white_large_square"
+  "trollface"
 ];
