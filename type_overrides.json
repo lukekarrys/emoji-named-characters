@@ -1,0 +1,2174 @@
+{
+  "100": [
+    "noun"
+  ],
+  "1234": [],
+  "+1": [
+    "interjection"
+  ],
+  "-1": [],
+  "8ball": [],
+  "a": [
+    "noun",
+    "idiom",
+    "indefinite-article",
+    "preposition",
+    "auxiliary-verb",
+    "abbreviation"
+  ],
+  "ab": [
+    "noun"
+  ],
+  "abc": [],
+  "abcd": [],
+  "accept": [
+    "verb-transitive",
+    "verb-intransitive"
+  ],
+  "aerial_tramway": [],
+  "airplane": [
+    "noun"
+  ],
+  "alarm_clock": [],
+  "alien": [
+    "adjective",
+    "noun",
+    "verb-transitive"
+  ],
+  "ambulance": [
+    "noun"
+  ],
+  "anchor": [
+    "noun",
+    "verb-transitive",
+    "verb-intransitive"
+  ],
+  "angel": [
+    "noun"
+  ],
+  "anger": [
+    "noun",
+    "verb-transitive",
+    "verb-intransitive"
+  ],
+  "angry": [
+    "adjective"
+  ],
+  "anguished": [
+    "adjective"
+  ],
+  "ant": [
+    "noun",
+    "idiom"
+  ],
+  "apple": [
+    "noun",
+    "idiom"
+  ],
+  "aquarius": [],
+  "aries": [],
+  "arrow_backward": [],
+  "arrow_double_down": [],
+  "arrow_double_up": [],
+  "arrow_down": [],
+  "arrow_down_small": [],
+  "arrow_forward": [],
+  "arrow_heading_down": [],
+  "arrow_heading_up": [],
+  "arrow_left": [],
+  "arrow_lower_left": [],
+  "arrow_lower_right": [],
+  "arrow_right": [],
+  "arrow_right_hook": [],
+  "arrow_up": [],
+  "arrow_up_down": [],
+  "arrow_up_small": [],
+  "arrow_upper_left": [],
+  "arrow_upper_right": [],
+  "arrows_clockwise": [],
+  "arrows_counterclockwise": [],
+  "art": [
+    "noun",
+    "verb"
+  ],
+  "articulated_lorry": [],
+  "astonished": [
+    "adjective",
+    "verb"
+  ],
+  "atm": [
+    "abbreviation"
+  ],
+  "b": [
+    "noun",
+    "abbreviation"
+  ],
+  "baby": [
+    "noun",
+    "adjective",
+    "verb-transitive"
+  ],
+  "baby_bottle": [],
+  "baby_chick": [],
+  "baby_symbol": [],
+  "baggage_claim": [],
+  "balloon": [
+    "noun",
+    "verb-intransitive",
+    "verb-transitive",
+    "adjective"
+  ],
+  "ballot_box_with_check": [],
+  "bamboo": [
+    "noun"
+  ],
+  "banana": [
+    "noun"
+  ],
+  "bangbang": [],
+  "bank": [
+    "noun",
+    "verb-transitive",
+    "verb-intransitive",
+    "phrasal-verb"
+  ],
+  "bar_chart": [],
+  "barber": [
+    "noun",
+    "verb-transitive",
+    "verb-intransitive"
+  ],
+  "baseball": [
+    "noun"
+  ],
+  "basketball": [
+    "noun"
+  ],
+  "bath": [
+    "noun"
+  ],
+  "bathtub": [
+    "noun"
+  ],
+  "battery": [
+    "noun"
+  ],
+  "bear": [
+    "verb-transitive",
+    "verb-intransitive",
+    "phrasal-verb",
+    "idiom",
+    "noun",
+    "adjective"
+  ],
+  "bee": [
+    "noun",
+    "idiom"
+  ],
+  "beer": [
+    "noun"
+  ],
+  "beers": [
+    "noun"
+  ],
+  "beetle": [
+    "noun",
+    "verb-intransitive",
+    "adjective"
+  ],
+  "beginner": [
+    "noun"
+  ],
+  "bell": [
+    "noun",
+    "verb-transitive",
+    "verb-intransitive",
+    "idiom"
+  ],
+  "bento": [
+    "noun"
+  ],
+  "bicyclist": [
+    "noun"
+  ],
+  "bike": [
+    "noun",
+    "verb-intransitive"
+  ],
+  "bikini": [
+    "noun"
+  ],
+  "bird": [
+    "noun",
+    "verb-intransitive",
+    "idiom"
+  ],
+  "birthday": [
+    "noun"
+  ],
+  "black_circle": [],
+  "black_joker": [],
+  "black_nib": [],
+  "black_square": [],
+  "black_square_button": [],
+  "blossom": [
+    "noun",
+    "verb-intransitive"
+  ],
+  "blowfish": [
+    "noun"
+  ],
+  "blue_book": [],
+  "blue_car": [],
+  "blue_heart": [],
+  "blush": [
+    "verb-intransitive",
+    "noun"
+  ],
+  "boar": [
+    "noun"
+  ],
+  "boat": [
+    "noun",
+    "verb-intransitive",
+    "verb-transitive",
+    "idiom"
+  ],
+  "bomb": [
+    "noun",
+    "verb-transitive",
+    "verb-intransitive"
+  ],
+  "book": [
+    "noun",
+    "verb-transitive",
+    "verb-intransitive",
+    "adjective",
+    "idiom"
+  ],
+  "bookmark": [
+    "noun"
+  ],
+  "bookmark_tabs": [],
+  "books": [
+    "noun",
+    "verb"
+  ],
+  "boom": [
+    "verb-intransitive",
+    "verb-transitive",
+    "noun",
+    "idiom"
+  ],
+  "boot": [
+    "noun",
+    "verb-transitive",
+    "verb-intransitive",
+    "idiom"
+  ],
+  "bouquet": [
+    "noun"
+  ],
+  "bow": [
+    "noun",
+    "verb-intransitive",
+    "verb-transitive",
+    "phrasal-verb",
+    "idiom"
+  ],
+  "bowling": [
+    "noun"
+  ],
+  "boy": [
+    "noun",
+    "interjection"
+  ],
+  "bread": [
+    "noun",
+    "verb-transitive"
+  ],
+  "bride_with_veil": [],
+  "bridge_at_night": [],
+  "briefcase": [
+    "noun"
+  ],
+  "broken_heart": [],
+  "bug": [
+    "noun",
+    "verb-intransitive",
+    "verb-transitive",
+    "phrasal-verb",
+    "idiom"
+  ],
+  "bulb": [
+    "noun"
+  ],
+  "bullettrain_front": [],
+  "bullettrain_side": [],
+  "bus": [
+    "noun",
+    "verb-transitive",
+    "verb-intransitive"
+  ],
+  "busstop": [],
+  "bust_in_silhouette": [],
+  "busts_in_silhouette": [],
+  "cactus": [
+    "noun"
+  ],
+  "cake": [
+    "noun",
+    "verb-transitive",
+    "verb-intransitive"
+  ],
+  "calendar": [
+    "noun",
+    "verb-transitive"
+  ],
+  "calling": [
+    "noun"
+  ],
+  "camel": [
+    "noun"
+  ],
+  "camera": [
+    "noun",
+    "idiom"
+  ],
+  "cancer": [
+    "noun"
+  ],
+  "candy": [
+    "noun",
+    "verb-transitive",
+    "verb-intransitive"
+  ],
+  "capital_abcd": [],
+  "capricorn": [],
+  "car": [
+    "noun"
+  ],
+  "card_index": [],
+  "carousel_horse": [],
+  "cat": [
+    "noun",
+    "verb-transitive",
+    "verb-intransitive",
+    "idiom"
+  ],
+  "cat2": [],
+  "cd": [
+    "abbreviation"
+  ],
+  "chart": [
+    "noun",
+    "verb-transitive",
+    "verb-intransitive"
+  ],
+  "chart_with_downwards_trend": [],
+  "chart_with_upwards_trend": [],
+  "checkered_flag": [],
+  "cherries": [
+    "noun"
+  ],
+  "cherry_blossom": [],
+  "chestnut": [
+    "noun",
+    "adjective"
+  ],
+  "chicken": [
+    "noun",
+    "adjective",
+    "verb-intransitive"
+  ],
+  "children_crossing": [],
+  "chocolate_bar": [],
+  "christmas_tree": [],
+  "church": [
+    "noun",
+    "verb-transitive",
+    "adjective"
+  ],
+  "cinema": [
+    "noun"
+  ],
+  "circus_tent": [],
+  "city_sunrise": [],
+  "city_sunset": [],
+  "cl": [
+    "abbreviation"
+  ],
+  "clap": [
+    "verb-intransitive",
+    "verb-transitive",
+    "noun"
+  ],
+  "clapper": [
+    "noun"
+  ],
+  "clipboard": [
+    "noun"
+  ],
+  "clock1": [],
+  "clock10": [],
+  "clock1030": [],
+  "clock11": [],
+  "clock1130": [],
+  "clock12": [],
+  "clock1230": [],
+  "clock130": [],
+  "clock2": [],
+  "clock230": [],
+  "clock3": [],
+  "clock330": [],
+  "clock4": [],
+  "clock430": [],
+  "clock5": [],
+  "clock530": [],
+  "clock6": [],
+  "clock630": [],
+  "clock7": [],
+  "clock730": [],
+  "clock8": [],
+  "clock830": [],
+  "clock9": [],
+  "clock930": [],
+  "closed_book": [],
+  "closed_lock_with_key": [],
+  "closed_umbrella": [],
+  "cloud": [
+    "noun",
+    "verb-transitive",
+    "verb-intransitive",
+    "idiom"
+  ],
+  "clubs": [
+    "verb",
+    "noun"
+  ],
+  "cn": [],
+  "cocktail": [
+    "noun",
+    "adjective"
+  ],
+  "coffee": [
+    "noun"
+  ],
+  "cold_sweat": [],
+  "collision": [
+    "noun"
+  ],
+  "computer": [
+    "noun"
+  ],
+  "confetti_ball": [],
+  "confounded": [
+    "adjective"
+  ],
+  "confused": [
+    "adjective"
+  ],
+  "congratulations": [
+    "interjection",
+    "noun"
+  ],
+  "construction": [
+    "noun"
+  ],
+  "construction_worker": [],
+  "convenience_store": [],
+  "cookie": [
+    "noun"
+  ],
+  "cool": [
+    "adjective",
+    "adverb",
+    "verb-transitive",
+    "verb-intransitive",
+    "noun",
+    "idiom"
+  ],
+  "cop": [
+    "noun",
+    "verb-transitive",
+    "phrasal-verb",
+    "idiom"
+  ],
+  "copyright": [
+    "noun",
+    "adjective",
+    "verb-transitive"
+  ],
+  "corn": [
+    "noun",
+    "verb-transitive",
+    "verb-intransitive"
+  ],
+  "couple": [
+    "noun",
+    "verb-transitive",
+    "verb-intransitive",
+    "adjective"
+  ],
+  "couple_with_heart": [],
+  "couplekiss": [],
+  "cow": [
+    "noun",
+    "idiom",
+    "verb-transitive"
+  ],
+  "cow2": [],
+  "credit_card": [],
+  "crocodile": [
+    "noun"
+  ],
+  "crossed_flags": [],
+  "crown": [
+    "noun",
+    "verb-transitive",
+    "verb-intransitive"
+  ],
+  "cry": [
+    "verb-intransitive",
+    "verb-transitive",
+    "noun",
+    "phrasal-verb",
+    "idiom"
+  ],
+  "crying_cat_face": [],
+  "crystal_ball": [],
+  "cupid": [
+    "noun"
+  ],
+  "curly_loop": [],
+  "currency_exchange": [],
+  "curry": [
+    "verb-transitive",
+    "idiom",
+    "noun"
+  ],
+  "custard": [
+    "noun"
+  ],
+  "customs": [
+    "noun"
+  ],
+  "cyclone": [
+    "noun"
+  ],
+  "dancer": [
+    "noun"
+  ],
+  "dancers": [
+    "noun"
+  ],
+  "dango": [],
+  "dart": [
+    "noun",
+    "verb-intransitive",
+    "verb-transitive"
+  ],
+  "dash": [
+    "verb-transitive",
+    "verb-intransitive",
+    "noun"
+  ],
+  "date": [
+    "noun",
+    "verb-transitive",
+    "verb-intransitive",
+    "idiom"
+  ],
+  "de": [
+    "noun",
+    "verb"
+  ],
+  "deciduous_tree": [],
+  "department_store": [],
+  "diamond_shape_with_a_dot_inside": [],
+  "diamonds": [
+    "noun",
+    "verb"
+  ],
+  "disappointed": [
+    "adjective"
+  ],
+  "disappointed_relieved": [],
+  "dizzy": [
+    "adjective",
+    "verb-transitive"
+  ],
+  "dizzy_face": [],
+  "do_not_litter": [],
+  "dog": [
+    "noun",
+    "adverb",
+    "verb-transitive",
+    "idiom"
+  ],
+  "dog2": [],
+  "dollar": [
+    "noun"
+  ],
+  "dolls": [
+    "noun"
+  ],
+  "dolphin": [
+    "noun"
+  ],
+  "donut": [
+    "noun"
+  ],
+  "door": [
+    "noun",
+    "verb-transitive",
+    "idiom"
+  ],
+  "doughnut": [
+    "noun"
+  ],
+  "dragon": [
+    "noun"
+  ],
+  "dragon_face": [],
+  "dress": [
+    "verb-transitive",
+    "verb-intransitive",
+    "noun",
+    "adjective",
+    "phrasal-verb",
+    "idiom"
+  ],
+  "dromedary_camel": [],
+  "droplet": [
+    "noun"
+  ],
+  "dvd": [],
+  "e-mail": [
+    "noun",
+    "verb-transitive"
+  ],
+  "ear": [
+    "noun",
+    "idiom",
+    "verb-intransitive"
+  ],
+  "ear_of_rice": [],
+  "earth_africa": [],
+  "earth_americas": [],
+  "earth_asia": [],
+  "egg": [
+    "noun",
+    "verb-transitive",
+    "idiom"
+  ],
+  "eggplant": [
+    "noun"
+  ],
+  "eight": [
+    "noun"
+  ],
+  "eight_pointed_black_star": [],
+  "eight_spoked_asterisk": [],
+  "electric_plug": [],
+  "elephant": [
+    "noun"
+  ],
+  "email": [
+    "noun",
+    "verb"
+  ],
+  "end": [
+    "noun",
+    "verb-transitive",
+    "verb-intransitive",
+    "idiom"
+  ],
+  "envelope": [
+    "noun",
+    "idiom"
+  ],
+  "es": [
+    "noun"
+  ],
+  "euro": [
+    "noun"
+  ],
+  "european_castle": [],
+  "european_post_office": [],
+  "evergreen_tree": [],
+  "exclamation": [
+    "noun"
+  ],
+  "expressionless": [
+    "adjective"
+  ],
+  "eyeglasses": [
+    "noun"
+  ],
+  "eyes": [
+    "noun",
+    "verb"
+  ],
+  "facepunch": [],
+  "factory": [
+    "noun"
+  ],
+  "fallen_leaf": [],
+  "family": [
+    "noun",
+    "adjective"
+  ],
+  "fast_forward": [],
+  "fax": [
+    "noun",
+    "verb-transitive"
+  ],
+  "fearful": [
+    "adjective"
+  ],
+  "feet": [
+    "noun"
+  ],
+  "ferris_wheel": [],
+  "file_folder": [],
+  "fire": [
+    "noun",
+    "verb-transitive",
+    "verb-intransitive",
+    "phrasal-verb",
+    "idiom"
+  ],
+  "fire_engine": [],
+  "fireworks": [
+    "noun"
+  ],
+  "first_quarter_moon": [],
+  "first_quarter_moon_with_face": [],
+  "fish": [
+    "noun",
+    "verb-intransitive",
+    "verb-transitive",
+    "phrasal-verb",
+    "idiom"
+  ],
+  "fish_cake": [],
+  "fishing_pole_and_fish": [],
+  "fist": [
+    "noun",
+    "verb-transitive"
+  ],
+  "five": [
+    "noun"
+  ],
+  "flags": [
+    "noun"
+  ],
+  "flashlight": [
+    "noun"
+  ],
+  "floppy_disk": [],
+  "flower_playing_cards": [],
+  "flushed": [
+    "adjective",
+    "verb"
+  ],
+  "foggy": [
+    "adjective"
+  ],
+  "football": [
+    "noun"
+  ],
+  "fork_and_knife": [],
+  "fountain": [
+    "noun",
+    "verb-transitive"
+  ],
+  "four": [
+    "noun",
+    "idiom"
+  ],
+  "four_leaf_clover": [],
+  "fr": [],
+  "free": [
+    "adjective",
+    "adverb",
+    "verb-transitive",
+    "idiom"
+  ],
+  "fried_shrimp": [],
+  "fries": [
+    "verb",
+    "noun"
+  ],
+  "frog": [
+    "noun"
+  ],
+  "frowning": [
+    "verb"
+  ],
+  "fuelpump": [],
+  "full_moon": [],
+  "full_moon_with_face": [],
+  "game_die": [],
+  "gb": [],
+  "gem": [
+    "noun",
+    "verb-transitive"
+  ],
+  "gemini": [],
+  "ghost": [
+    "noun",
+    "verb-intransitive",
+    "verb-transitive"
+  ],
+  "gift": [
+    "noun",
+    "verb-transitive"
+  ],
+  "gift_heart": [],
+  "girl": [
+    "noun"
+  ],
+  "globe_with_meridians": [],
+  "goat": [
+    "noun"
+  ],
+  "golf": [
+    "noun",
+    "verb-intransitive"
+  ],
+  "grapes": [
+    "noun"
+  ],
+  "green_apple": [],
+  "green_book": [],
+  "green_heart": [],
+  "grey_exclamation": [],
+  "grey_question": [],
+  "grimacing": [
+    "verb"
+  ],
+  "grin": [
+    "verb-intransitive",
+    "verb-transitive",
+    "noun"
+  ],
+  "grinning": [
+    "verb"
+  ],
+  "guardsman": [
+    "noun"
+  ],
+  "guitar": [
+    "noun"
+  ],
+  "gun": [
+    "noun",
+    "verb-transitive",
+    "verb-intransitive",
+    "phrasal-verb",
+    "idiom"
+  ],
+  "haircut": [
+    "noun"
+  ],
+  "hamburger": [
+    "noun"
+  ],
+  "hammer": [
+    "noun",
+    "verb-transitive",
+    "verb-intransitive",
+    "idiom"
+  ],
+  "hamster": [
+    "noun"
+  ],
+  "hand": [
+    "noun",
+    "verb-transitive",
+    "verb-intransitive",
+    "phrasal-verb",
+    "idiom"
+  ],
+  "handbag": [
+    "noun"
+  ],
+  "hankey": [
+    "noun"
+  ],
+  "hash": [
+    "noun",
+    "verb-transitive",
+    "idiom"
+  ],
+  "hatched_chick": [],
+  "hatching_chick": [],
+  "headphones": [
+    "noun"
+  ],
+  "hear_no_evil": [],
+  "heart": [
+    "noun",
+    "verb-transitive",
+    "idiom"
+  ],
+  "heart_decoration": [],
+  "heart_eyes": [],
+  "heart_eyes_cat": [],
+  "heartbeat": [
+    "noun"
+  ],
+  "heartpulse": [],
+  "hearts": [
+    "noun",
+    "verb"
+  ],
+  "heavy_check_mark": [],
+  "heavy_division_sign": [],
+  "heavy_dollar_sign": [],
+  "heavy_exclamation_mark": [],
+  "heavy_minus_sign": [],
+  "heavy_multiplication_x": [],
+  "heavy_plus_sign": [],
+  "helicopter": [
+    "noun",
+    "verb-transitive"
+  ],
+  "herb": [
+    "noun"
+  ],
+  "hibiscus": [
+    "noun"
+  ],
+  "high_brightness": [],
+  "high_heel": [],
+  "hocho": [],
+  "honey_pot": [],
+  "honeybee": [
+    "noun"
+  ],
+  "horse": [
+    "noun",
+    "verb-transitive",
+    "verb-intransitive",
+    "adjective",
+    "phrasal-verb",
+    "idiom"
+  ],
+  "horse_racing": [],
+  "hospital": [
+    "noun"
+  ],
+  "hotel": [
+    "noun"
+  ],
+  "hotsprings": [],
+  "hourglass": [
+    "noun",
+    "adjective"
+  ],
+  "hourglass_flowing_sand": [],
+  "house": [
+    "noun",
+    "verb-transitive",
+    "verb-intransitive",
+    "idiom"
+  ],
+  "house_with_garden": [],
+  "hushed": [
+    "adjective",
+    "verb"
+  ],
+  "ice_cream": [],
+  "icecream": [
+    "noun"
+  ],
+  "id": [
+    "noun"
+  ],
+  "ideograph_advantage": [],
+  "imp": [
+    "noun",
+    "verb-transitive"
+  ],
+  "inbox_tray": [],
+  "incoming_envelope": [],
+  "information_desk_person": [],
+  "information_source": [],
+  "innocent": [
+    "adjective",
+    "noun"
+  ],
+  "interrobang": [
+    "noun"
+  ],
+  "iphone": [],
+  "it": [
+    "pronoun",
+    "noun",
+    "idiom"
+  ],
+  "izakaya_lantern": [],
+  "jack_o_lantern": [],
+  "japan": [
+    "noun",
+    "verb-transitive"
+  ],
+  "japanese_castle": [],
+  "japanese_goblin": [],
+  "japanese_ogre": [],
+  "jeans": [
+    "noun"
+  ],
+  "joy": [
+    "noun",
+    "verb-intransitive",
+    "verb-transitive"
+  ],
+  "joy_cat": [],
+  "jp": [
+    "abbreviation"
+  ],
+  "key": [
+    "noun",
+    "adjective",
+    "verb-transitive",
+    "verb-intransitive",
+    "phrasal-verb",
+    "idiom"
+  ],
+  "keycap_ten": [],
+  "kimono": [
+    "noun"
+  ],
+  "kiss": [
+    "verb-transitive",
+    "verb-intransitive",
+    "noun",
+    "phrasal-verb",
+    "idiom"
+  ],
+  "kissing": [
+    "verb",
+    "adjective"
+  ],
+  "kissing_cat": [],
+  "kissing_closed_eyes": [],
+  "kissing_face": [],
+  "kissing_heart": [],
+  "kissing_smiling_eyes": [],
+  "koala": [
+    "noun"
+  ],
+  "koko": [
+    "noun"
+  ],
+  "kr": [],
+  "large_blue_circle": [],
+  "large_blue_diamond": [],
+  "large_orange_diamond": [],
+  "last_quarter_moon": [],
+  "last_quarter_moon_with_face": [],
+  "laughing": [
+    "noun",
+    "verb"
+  ],
+  "leaves": [
+    "noun"
+  ],
+  "ledger": [
+    "noun"
+  ],
+  "left_luggage": [],
+  "left_right_arrow": [],
+  "leftwards_arrow_with_hook": [],
+  "lemon": [
+    "noun",
+    "adjective"
+  ],
+  "leo": [],
+  "leopard": [
+    "noun"
+  ],
+  "libra": [
+    "noun"
+  ],
+  "light_rail": [],
+  "link": [
+    "noun",
+    "verb-transitive",
+    "verb-intransitive"
+  ],
+  "lips": [
+    "noun"
+  ],
+  "lipstick": [
+    "noun"
+  ],
+  "lock": [
+    "noun",
+    "verb-transitive",
+    "verb-intransitive",
+    "phrasal-verb",
+    "idiom"
+  ],
+  "lock_with_ink_pen": [],
+  "lollipop": [
+    "noun"
+  ],
+  "loop": [
+    "noun",
+    "verb-transitive",
+    "verb-intransitive",
+    "idiom"
+  ],
+  "loudspeaker": [
+    "noun"
+  ],
+  "love_hotel": [],
+  "love_letter": [],
+  "low_brightness": [],
+  "m": [
+    "noun",
+    "abbreviation"
+  ],
+  "mag": [
+    "noun"
+  ],
+  "mag_right": [],
+  "mahjong": [
+    "noun"
+  ],
+  "mailbox": [
+    "noun"
+  ],
+  "mailbox_closed": [],
+  "mailbox_with_mail": [],
+  "mailbox_with_no_mail": [],
+  "man": [
+    "noun",
+    "verb-transitive",
+    "interjection",
+    "idiom"
+  ],
+  "man_with_gua_pi_mao": [],
+  "man_with_turban": [],
+  "mans_shoe": [],
+  "maple_leaf": [],
+  "mask": [
+    "noun",
+    "verb-transitive",
+    "verb-intransitive"
+  ],
+  "massage": [
+    "noun",
+    "verb-transitive"
+  ],
+  "meat_on_bone": [],
+  "mega": [
+    "adjective"
+  ],
+  "melon": [
+    "noun"
+  ],
+  "memo": [
+    "noun"
+  ],
+  "mens": [],
+  "metro": [
+    "noun",
+    "adjective"
+  ],
+  "microphone": [
+    "noun"
+  ],
+  "microscope": [
+    "noun"
+  ],
+  "milky_way": [],
+  "minibus": [
+    "noun"
+  ],
+  "minidisc": [
+    "noun"
+  ],
+  "mobile_phone_off": [],
+  "money_with_wings": [],
+  "moneybag": [
+    "noun"
+  ],
+  "monkey": [
+    "noun",
+    "verb-intransitive",
+    "verb-transitive"
+  ],
+  "monkey_face": [],
+  "monorail": [
+    "noun"
+  ],
+  "moon": [
+    "noun",
+    "verb-intransitive",
+    "verb-transitive"
+  ],
+  "mortar_board": [],
+  "mount_fuji": [],
+  "mountain_bicyclist": [],
+  "mountain_cableway": [],
+  "mountain_railway": [],
+  "mouse": [
+    "noun",
+    "verb-intransitive"
+  ],
+  "mouse2": [],
+  "movie_camera": [],
+  "moyai": [],
+  "muscle": [
+    "noun",
+    "verb-intransitive",
+    "verb-transitive"
+  ],
+  "mushroom": [
+    "noun",
+    "verb-intransitive",
+    "adjective"
+  ],
+  "musical_keyboard": [],
+  "musical_note": [],
+  "musical_score": [],
+  "mute": [
+    "adjective",
+    "noun",
+    "verb-transitive"
+  ],
+  "nail_care": [],
+  "name_badge": [],
+  "necktie": [
+    "noun"
+  ],
+  "negative_squared_cross_mark": [],
+  "neutral_face": [],
+  "new": [
+    "adjective",
+    "adverb"
+  ],
+  "new_moon": [],
+  "new_moon_with_face": [],
+  "newspaper": [
+    "noun"
+  ],
+  "ng": [
+    "abbreviation"
+  ],
+  "nine": [
+    "noun",
+    "idiom"
+  ],
+  "no_bell": [],
+  "no_bicycles": [],
+  "no_entry": [],
+  "no_entry_sign": [],
+  "no_good": [],
+  "no_mobile_phones": [],
+  "no_mouth": [],
+  "no_pedestrians": [],
+  "no_smoking": [],
+  "non-potable_water": [],
+  "nose": [
+    "noun",
+    "verb-transitive",
+    "verb-intransitive",
+    "phrasal-verb",
+    "idiom"
+  ],
+  "notebook": [
+    "noun"
+  ],
+  "notebook_with_decorative_cover": [],
+  "notes": [
+    "noun"
+  ],
+  "nut_and_bolt": [],
+  "o": [
+    "noun"
+  ],
+  "o2": [],
+  "ocean": [
+    "noun"
+  ],
+  "octopus": [
+    "noun"
+  ],
+  "oden": [],
+  "office": [
+    "noun"
+  ],
+  "ok": [
+    "adjective"
+  ],
+  "ok_hand": [],
+  "ok_woman": [],
+  "older_man": [],
+  "older_woman": [],
+  "on": [
+    "preposition",
+    "adverb",
+    "adjective",
+    "idiom"
+  ],
+  "oncoming_automobile": [],
+  "oncoming_bus": [],
+  "oncoming_police_car": [],
+  "oncoming_taxi": [],
+  "one": [
+    "adjective",
+    "noun",
+    "pronoun",
+    "idiom"
+  ],
+  "open_file_folder": [],
+  "open_hands": [],
+  "open_mouth": [],
+  "ophiuchus": [],
+  "orange_book": [],
+  "outbox_tray": [],
+  "ox": [
+    "noun"
+  ],
+  "page_facing_up": [],
+  "page_with_curl": [],
+  "pager": [
+    "noun"
+  ],
+  "palm_tree": [],
+  "panda_face": [],
+  "paperclip": [
+    "noun"
+  ],
+  "parking": [
+    "noun"
+  ],
+  "part_alternation_mark": [],
+  "partly_sunny": [],
+  "passport_control": [],
+  "paw_prints": [],
+  "peach": [
+    "noun",
+    "verb-intransitive",
+    "verb-transitive"
+  ],
+  "pear": [
+    "noun"
+  ],
+  "pencil": [
+    "noun",
+    "verb-transitive",
+    "phrasal-verb"
+  ],
+  "pencil2": [],
+  "penguin": [
+    "noun"
+  ],
+  "pensive": [
+    "adjective"
+  ],
+  "performing_arts": [],
+  "persevere": [
+    "verb-intransitive"
+  ],
+  "person_frowning": [],
+  "person_with_blond_hair": [],
+  "person_with_pouting_face": [],
+  "phone": [
+    "noun",
+    "verb-intransitive",
+    "verb-transitive"
+  ],
+  "pig": [
+    "noun",
+    "verb-intransitive",
+    "phrasal-verb",
+    "idiom"
+  ],
+  "pig2": [],
+  "pig_nose": [],
+  "pill": [
+    "noun",
+    "verb-transitive",
+    "verb-intransitive"
+  ],
+  "pineapple": [
+    "noun"
+  ],
+  "pisces": [],
+  "pizza": [
+    "noun"
+  ],
+  "plus1": [],
+  "point_down": [],
+  "point_left": [],
+  "point_right": [],
+  "point_up": [],
+  "point_up_2": [],
+  "police_car": [],
+  "poodle": [
+    "noun"
+  ],
+  "poop": [
+    "noun",
+    "verb-transitive",
+    "phrasal-verb",
+    "verb-intransitive"
+  ],
+  "post_office": [],
+  "postal_horn": [],
+  "postbox": [
+    "noun"
+  ],
+  "potable_water": [],
+  "pouch": [
+    "noun",
+    "verb-transitive",
+    "verb-intransitive"
+  ],
+  "poultry_leg": [],
+  "pound": [
+    "noun",
+    "verb-transitive",
+    "verb-intransitive",
+    "idiom"
+  ],
+  "pouting_cat": [],
+  "pray": [
+    "verb-intransitive",
+    "verb-transitive"
+  ],
+  "princess": [
+    "noun",
+    "adjective"
+  ],
+  "punch": [
+    "noun",
+    "verb-transitive",
+    "phrasal-verb",
+    "idiom"
+  ],
+  "purple_heart": [],
+  "purse": [
+    "noun",
+    "verb-transitive"
+  ],
+  "pushpin": [
+    "noun"
+  ],
+  "put_litter_in_its_place": [],
+  "question": [
+    "noun",
+    "verb-transitive",
+    "verb-intransitive",
+    "idiom"
+  ],
+  "rabbit": [
+    "noun",
+    "verb-intransitive"
+  ],
+  "rabbit2": [],
+  "racehorse": [
+    "noun"
+  ],
+  "radio": [
+    "noun",
+    "verb-transitive",
+    "verb-intransitive"
+  ],
+  "radio_button": [],
+  "rage": [
+    "noun",
+    "verb-intransitive"
+  ],
+  "railway_car": [],
+  "rainbow": [
+    "noun"
+  ],
+  "raised_hand": [],
+  "raised_hands": [],
+  "raising_hand": [],
+  "ram": [
+    "noun",
+    "verb-transitive"
+  ],
+  "ramen": [
+    "noun"
+  ],
+  "rat": [
+    "noun",
+    "verb-intransitive",
+    "verb-transitive"
+  ],
+  "recycle": [
+    "verb-transitive"
+  ],
+  "red_car": [],
+  "red_circle": [],
+  "registered": [
+    "adjective"
+  ],
+  "relaxed": [
+    "adjective"
+  ],
+  "relieved": [
+    "adjective",
+    "verb"
+  ],
+  "repeat": [
+    "verb-transitive",
+    "verb-intransitive",
+    "noun",
+    "adjective"
+  ],
+  "repeat_one": [],
+  "restroom": [
+    "noun"
+  ],
+  "revolving_hearts": [],
+  "rewind": [
+    "verb-transitive",
+    "noun"
+  ],
+  "ribbon": [
+    "noun",
+    "verb-transitive"
+  ],
+  "rice": [
+    "noun",
+    "verb-transitive"
+  ],
+  "rice_ball": [],
+  "rice_cracker": [],
+  "rice_scene": [],
+  "ring": [
+    "noun",
+    "verb-transitive",
+    "verb-intransitive",
+    "phrasal-verb",
+    "idiom"
+  ],
+  "rocket": [
+    "noun",
+    "verb-intransitive",
+    "verb-transitive"
+  ],
+  "roller_coaster": [],
+  "rooster": [
+    "noun"
+  ],
+  "rose": [
+    "noun",
+    "adjective",
+    "idiom",
+    "verb"
+  ],
+  "rotating_light": [],
+  "round_pushpin": [],
+  "rowboat": [
+    "noun"
+  ],
+  "ru": [],
+  "rugby_football": [],
+  "runner": [
+    "noun"
+  ],
+  "running": [
+    "noun",
+    "adjective",
+    "adverb",
+    "idiom"
+  ],
+  "running_shirt_with_sash": [],
+  "sa": [],
+  "sagittarius": [],
+  "sailboat": [
+    "noun"
+  ],
+  "sake": [
+    "noun"
+  ],
+  "sandal": [
+    "noun"
+  ],
+  "santa": [],
+  "satellite": [
+    "noun"
+  ],
+  "satisfied": [
+    "adjective"
+  ],
+  "saxophone": [
+    "noun"
+  ],
+  "school": [
+    "noun",
+    "verb-transitive",
+    "adjective",
+    "verb-intransitive"
+  ],
+  "school_satchel": [],
+  "scissors": [
+    "noun",
+    "verb"
+  ],
+  "scorpius": [],
+  "scream": [
+    "verb-intransitive",
+    "verb-transitive",
+    "noun"
+  ],
+  "scream_cat": [],
+  "scroll": [
+    "noun",
+    "verb-transitive",
+    "verb-intransitive"
+  ],
+  "seat": [
+    "noun",
+    "verb-transitive",
+    "verb-intransitive",
+    "idiom"
+  ],
+  "secret": [
+    "adjective",
+    "noun"
+  ],
+  "see_no_evil": [],
+  "seedling": [
+    "noun"
+  ],
+  "seven": [
+    "noun"
+  ],
+  "shaved_ice": [],
+  "sheep": [
+    "noun"
+  ],
+  "shell": [
+    "noun",
+    "verb-transitive",
+    "verb-intransitive",
+    "phrasal-verb"
+  ],
+  "ship": [
+    "noun",
+    "verb-transitive",
+    "verb-intransitive",
+    "phrasal-verb",
+    "idiom"
+  ],
+  "shirt": [
+    "noun",
+    "idiom"
+  ],
+  "shit": [
+    "verb-intransitive",
+    "verb-transitive",
+    "noun",
+    "interjection",
+    "phrasal-verb",
+    "idiom"
+  ],
+  "shoe": [
+    "noun",
+    "verb-transitive",
+    "idiom"
+  ],
+  "shower": [
+    "noun",
+    "verb-transitive",
+    "verb-intransitive"
+  ],
+  "signal_strength": [],
+  "six": [
+    "noun",
+    "idiom"
+  ],
+  "six_pointed_star": [],
+  "ski": [
+    "noun",
+    "verb-intransitive",
+    "verb-transitive"
+  ],
+  "skull": [
+    "noun"
+  ],
+  "sleeping": [
+    "verb",
+    "adjective",
+    "noun"
+  ],
+  "sleepy": [
+    "adjective"
+  ],
+  "slot_machine": [],
+  "small_blue_diamond": [],
+  "small_orange_diamond": [],
+  "small_red_triangle": [],
+  "small_red_triangle_down": [],
+  "smile": [
+    "noun",
+    "verb-intransitive",
+    "verb-transitive"
+  ],
+  "smile_cat": [],
+  "smiley": [
+    "noun",
+    "adjective"
+  ],
+  "smiley_cat": [],
+  "smiling_imp": [],
+  "smirk": [
+    "verb-intransitive",
+    "noun"
+  ],
+  "smirk_cat": [],
+  "smoking": [
+    "adjective"
+  ],
+  "snail": [
+    "noun"
+  ],
+  "snake": [
+    "noun",
+    "verb-transitive",
+    "verb-intransitive"
+  ],
+  "snowboarder": [
+    "noun"
+  ],
+  "snowflake": [
+    "noun"
+  ],
+  "snowman": [
+    "noun"
+  ],
+  "sob": [
+    "verb-intransitive",
+    "verb-transitive",
+    "noun"
+  ],
+  "soccer": [
+    "noun"
+  ],
+  "soon": [
+    "adverb",
+    "idiom"
+  ],
+  "sos": [],
+  "sound": [
+    "noun",
+    "verb-intransitive",
+    "verb-transitive",
+    "phrasal-verb",
+    "adjective",
+    "adverb"
+  ],
+  "space_invader": [],
+  "spades": [
+    "noun",
+    "verb"
+  ],
+  "spaghetti": [
+    "noun"
+  ],
+  "sparkler": [
+    "noun"
+  ],
+  "sparkles": [
+    "noun",
+    "verb"
+  ],
+  "sparkling_heart": [],
+  "speak_no_evil": [],
+  "speaker": [
+    "noun"
+  ],
+  "speech_balloon": [],
+  "speedboat": [
+    "noun"
+  ],
+  "star": [
+    "noun",
+    "adjective",
+    "verb-transitive",
+    "verb-intransitive",
+    "idiom"
+  ],
+  "star2": [],
+  "stars": [
+    "noun",
+    "verb"
+  ],
+  "station": [
+    "noun",
+    "verb-transitive"
+  ],
+  "statue_of_liberty": [],
+  "steam_locomotive": [],
+  "stew": [
+    "verb-transitive",
+    "verb-intransitive",
+    "noun"
+  ],
+  "straight_ruler": [],
+  "strawberry": [
+    "noun",
+    "adjective"
+  ],
+  "stuck_out_tongue": [],
+  "stuck_out_tongue_closed_eyes": [],
+  "stuck_out_tongue_winking_eye": [],
+  "sun_with_face": [],
+  "sunflower": [
+    "noun"
+  ],
+  "sunglasses": [
+    "noun"
+  ],
+  "sunny": [
+    "adjective"
+  ],
+  "sunrise": [
+    "noun"
+  ],
+  "sunrise_over_mountains": [],
+  "surfer": [
+    "noun"
+  ],
+  "sushi": [
+    "noun"
+  ],
+  "suspension_railway": [],
+  "sweat": [
+    "verb-intransitive",
+    "verb-transitive",
+    "noun",
+    "phrasal-verb",
+    "idiom"
+  ],
+  "sweat_drops": [],
+  "sweat_smile": [],
+  "sweet_potato": [],
+  "swimmer": [
+    "noun"
+  ],
+  "symbols": [
+    "noun"
+  ],
+  "syringe": [
+    "noun"
+  ],
+  "tada": [
+    "interjection"
+  ],
+  "tanabata_tree": [],
+  "tangerine": [
+    "noun"
+  ],
+  "taurus": [
+    "noun"
+  ],
+  "taxi": [
+    "noun",
+    "verb-intransitive",
+    "verb-transitive"
+  ],
+  "tea": [
+    "noun"
+  ],
+  "telephone": [
+    "noun",
+    "verb-transitive",
+    "verb-intransitive"
+  ],
+  "telephone_receiver": [],
+  "telescope": [
+    "noun",
+    "verb-transitive",
+    "verb-intransitive"
+  ],
+  "tennis": [
+    "noun"
+  ],
+  "tent": [
+    "noun",
+    "verb-intransitive",
+    "verb-transitive"
+  ],
+  "thought_balloon": [],
+  "three": [
+    "noun"
+  ],
+  "thumbsdown": [],
+  "thumbsup": [],
+  "ticket": [
+    "noun",
+    "verb-transitive"
+  ],
+  "tiger": [
+    "noun"
+  ],
+  "tiger2": [],
+  "tired_face": [],
+  "tm": [],
+  "toilet": [
+    "noun"
+  ],
+  "tokyo_tower": [],
+  "tomato": [
+    "noun"
+  ],
+  "tongue": [
+    "noun",
+    "verb-transitive",
+    "verb-intransitive",
+    "idiom"
+  ],
+  "top": [
+    "noun",
+    "adjective",
+    "verb-transitive",
+    "verb-intransitive",
+    "phrasal-verb",
+    "idiom"
+  ],
+  "tophat": [
+    "noun"
+  ],
+  "tractor": [
+    "noun"
+  ],
+  "traffic_light": [],
+  "train": [
+    "noun",
+    "verb-transitive",
+    "verb-intransitive"
+  ],
+  "train2": [],
+  "tram": [
+    "noun",
+    "verb-transitive"
+  ],
+  "triangular_flag_on_post": [],
+  "triangular_ruler": [],
+  "trident": [
+    "noun",
+    "adjective"
+  ],
+  "triumph": [
+    "verb-intransitive",
+    "noun"
+  ],
+  "trolleybus": [
+    "noun"
+  ],
+  "trophy": [
+    "noun"
+  ],
+  "tropical_drink": [],
+  "tropical_fish": [],
+  "truck": [
+    "noun",
+    "verb-transitive",
+    "verb-intransitive"
+  ],
+  "trumpet": [
+    "noun",
+    "verb-intransitive",
+    "verb-transitive"
+  ],
+  "tshirt": [],
+  "tulip": [
+    "noun"
+  ],
+  "turtle": [
+    "noun",
+    "verb-intransitive"
+  ],
+  "tv": [
+    "noun"
+  ],
+  "twisted_rightwards_arrows": [],
+  "two": [
+    "noun",
+    "idiom"
+  ],
+  "two_hearts": [],
+  "two_men_holding_hands": [],
+  "two_women_holding_hands": [],
+  "u5272": [],
+  "u5408": [],
+  "u55b6": [],
+  "u6307": [],
+  "u6708": [],
+  "u6709": [],
+  "u6e80": [],
+  "u7121": [],
+  "u7533": [],
+  "u7981": [],
+  "u7a7a": [],
+  "uk": [],
+  "umbrella": [
+    "noun"
+  ],
+  "unamused": [
+    "adjective"
+  ],
+  "underage": [
+    "noun",
+    "adjective"
+  ],
+  "unlock": [
+    "verb-transitive",
+    "verb-intransitive"
+  ],
+  "up": [
+    "adverb",
+    "adjective",
+    "preposition",
+    "noun",
+    "verb-transitive",
+    "verb-intransitive",
+    "idiom"
+  ],
+  "us": [
+    "pronoun"
+  ],
+  "v": [
+    "noun"
+  ],
+  "vertical_traffic_light": [],
+  "vhs": [],
+  "vibration_mode": [],
+  "video_camera": [],
+  "video_game": [],
+  "violin": [
+    "noun"
+  ],
+  "virgo": [],
+  "volcano": [
+    "noun"
+  ],
+  "vs": [
+    "preposition"
+  ],
+  "walking": [
+    "adjective",
+    "noun"
+  ],
+  "waning_crescent_moon": [],
+  "waning_gibbous_moon": [],
+  "warning": [
+    "noun",
+    "adjective"
+  ],
+  "watch": [
+    "verb-intransitive",
+    "verb-transitive",
+    "noun",
+    "phrasal-verb",
+    "idiom"
+  ],
+  "water_buffalo": [],
+  "watermelon": [
+    "noun"
+  ],
+  "wave": [
+    "verb-intransitive",
+    "verb-transitive",
+    "noun",
+    "phrasal-verb"
+  ],
+  "wavy_dash": [],
+  "waxing_crescent_moon": [],
+  "waxing_gibbous_moon": [],
+  "wc": [],
+  "weary": [
+    "adjective",
+    "verb-transitive"
+  ],
+  "wedding": [
+    "noun"
+  ],
+  "whale": [
+    "noun",
+    "verb-intransitive",
+    "verb-transitive"
+  ],
+  "whale2": [],
+  "wheelchair": [
+    "noun"
+  ],
+  "white_check_mark": [],
+  "white_circle": [],
+  "white_flower": [],
+  "white_large_square": [],
+  "white_square_button": [],
+  "wind_chime": [],
+  "wine_glass": [],
+  "wink": [
+    "verb-intransitive",
+    "verb-transitive",
+    "noun",
+    "phrasal-verb"
+  ],
+  "wolf": [
+    "noun",
+    "verb-transitive",
+    "idiom"
+  ],
+  "woman": [
+    "noun",
+    "idiom"
+  ],
+  "womans_clothes": [],
+  "womans_hat": [],
+  "womens": [],
+  "worried": [
+    "adjective",
+    "verb"
+  ],
+  "wrench": [
+    "noun",
+    "verb-transitive",
+    "verb-intransitive"
+  ],
+  "x": [
+    "noun",
+    "verb-transitive",
+    null
+  ],
+  "yellow_heart": [],
+  "yen": [
+    "noun",
+    "verb-intransitive"
+  ],
+  "yum": [
+    "interjection"
+  ],
+  "zap": [
+    "verb-transitive",
+    "verb-intransitive",
+    "noun",
+    "interjection"
+  ],
+  "zero": [
+    "noun",
+    "adjective",
+    "verb-transitive",
+    "phrasal-verb"
+  ],
+  "zzz": [
+    "interjection",
+    "verb"
+  ]
+}

@@ -14,8 +14,10 @@ var missingFromCharacters = _.difference(names, _.keys(characters));
 var missingFromImages = _.difference(_.keys(characters), names);
 
 var syllables = require('./syllables.json');
-var overrides = require('./syllable_overrides.json');
+var syllable_overrides = require('./syllable_overrides.json');
 
+var wordnik = require('./dev/wordnik');
+var type_overrides = require('./type_overrides.json');
 // Remove missingFromImages from characters
 _.each(missingFromImages, function (i) {
     delete characters[i];
@@ -43,8 +45,8 @@ async.eachSeries(Object.keys(characters), function (name, cb) {
     var count = 0;
 
     name.toUpperCase().split('_').forEach(function (word) {
-        if (overrides[word]) {
-            count += overrides[word];
+        if (syllable_overrides[word]) {
+            count += syllable_overrides[word];
         } else if (syllables[word]) {
             if (!Array.isArray(syllables[word])) {
                 count += syllables[word];
@@ -59,7 +61,21 @@ async.eachSeries(Object.keys(characters), function (name, cb) {
         syllables: count
     };
 
-    cb();
+    if (type_overrides.hasOwnProperty(name)) {
+        characters[name].types = type_overrides[name];
+        return cb();
+    }
+
+    wordnik.getType(name, function (err, types) {
+        if (err || !types || !types.length) {
+            type_overrides[name] = [];
+        } else {
+            type_overrides[name] = types;
+        }
+
+        characters[name].types = types;
+        cb();
+    });
 }, function () {
     fs.writeFileSync(
         'index.js',
@@ -67,4 +83,6 @@ async.eachSeries(Object.keys(characters), function (name, cb) {
             .replace('"{{mapping}}"', JSON.stringify(characters)),
         {encoding: 'utf8'}
     );
+
+    fs.writeFileSync('./type_overrides.json', JSON.stringify(type_overrides, null, 2), 'utf8');
 });
