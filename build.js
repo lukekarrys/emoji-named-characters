@@ -1,6 +1,7 @@
 var fs = require('graceful-fs');
 var _ = require('underscore');
 var path = require('path');
+var async = require('async');
 var names = _.compact(fs.readdirSync(__dirname + '/pngs').map(function (i) {
     return i.indexOf('.png') > -1 ? path.basename(i, '.png') : null;
 }));
@@ -38,7 +39,7 @@ fs.writeFileSync(
     {encoding: 'utf8'}
 );
 
-Object.keys(characters).forEach(function (name) {
+async.eachSeries(Object.keys(characters), function (name, cb) {
     var count = 0;
 
     name.toUpperCase().split('_').forEach(function (word) {
@@ -57,11 +58,13 @@ Object.keys(characters).forEach(function (name) {
         character: characters[name],
         syllables: count
     };
-});
 
-fs.writeFileSync(
-    'index.js',
-    template
-        .replace('"{{mapping}}"', JSON.stringify(characters)),
-    {encoding: 'utf8'}
-);
+    cb();
+}, function () {
+    fs.writeFileSync(
+        'index.js',
+        template
+            .replace('"{{mapping}}"', JSON.stringify(characters)),
+        {encoding: 'utf8'}
+    );
+});
