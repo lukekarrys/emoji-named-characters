@@ -13,13 +13,18 @@ Two things:
 
 ## What is provides
 
-Support for browserify, amd, or a browser global. You will get an object with the following properties:
+Support for browserify, amd, or a browser global. You will get an object with all the emojis. The keys are the names and each value looks like:
 
-- `mapping`: An object with the keys being the names and the values being the emoji characters
-- `missing`: An array of names that don't exist as emoji characters (or I couldn't find them).
+```js
+chicken: {
+    character: '🐔',
+    syllables: 2,
+    type: ['noun', 'adjective']
+}
+```
 
 
-## install
+## Install
 
 Grab it here or on npm:
 
