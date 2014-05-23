@@ -12,6 +12,9 @@ var readme = fs.readFileSync(__dirname + '/readme.md').toString();
 var missingFromCharacters = _.difference(names, _.keys(characters));
 var missingFromImages = _.difference(_.keys(characters), names);
 
+var syllables = require('./syllables.json');
+var overrides = require('./syllable_overrides.json');
+
 // Remove missingFromImages from characters
 _.each(missingFromImages, function (i) {
     delete characters[i];
@@ -34,6 +37,27 @@ fs.writeFileSync(
     splitReadme[0] + missingTitle + '\n\n' + missingImages.join(' ') + '\n',
     {encoding: 'utf8'}
 );
+
+Object.keys(characters).forEach(function (name) {
+    var count = 0;
+
+    name.toUpperCase().split('_').forEach(function (word) {
+        if (overrides[word]) {
+            count += overrides[word];
+        } else if (syllables[word]) {
+            if (!Array.isArray(syllables[word])) {
+                count += syllables[word];
+            } else {
+                count += syllables[word][0];
+            }
+        }
+    });
+    
+    characters[name] = {
+        character: characters[name],
+        syllables: count
+    };
+});
 
 fs.writeFileSync(
     'index.js',
