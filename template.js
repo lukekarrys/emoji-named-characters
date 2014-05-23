@@ -13,8 +13,5 @@
         root.emoji = factory();
   }
 }(this, function () {
-    return {
-        mapping: "{{mapping}}",
-        missing: "{{missing}}"
-    };
+    return "{{mapping}}";
 }));
