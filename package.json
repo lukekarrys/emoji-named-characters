@@ -1,7 +1,7 @@
 {
   "name": "emoji-named-characters",
   "description": "A mapping of emoji names to their characters, as well as images.",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "author": "Luke Karrys <luke@lukekarrys.com>",
   "bugs": {
     "url": "https://github.com/lukekarrys/emoji-named-characters/issues"
