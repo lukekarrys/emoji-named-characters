@@ -1,5 +1,7 @@
 #emoji-named-characters.js
 
+[![NPM](https://nodei.co/npm/emoji-named-characters.png)](https://nodei.co/npm/emoji-named-characters/)
+
 A mapping of emoji names to their characters, as well as images.
 
 ## What is this?
