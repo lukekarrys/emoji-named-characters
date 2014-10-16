@@ -28,7 +28,7 @@
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "git@github.com:lukekarrys/emoji-named-characters.js.git"
+    "url": "git@github.com:lukekarrys/emoji-named-characters.git"
   },
   "scripts": {
     "compare": "node dev/compare/compare",

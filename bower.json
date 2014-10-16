@@ -1,0 +1,30 @@
+{
+  "name": "emoji-named-characters",
+  "main": "index.js",
+  "version": "1.0.1",
+  "homepage": "https://github.com/lukekarrys/emoji-named-characters",
+  "authors": [
+    "Luke Karrys <lukekarrys@gmail.com>"
+  ],
+  "description": "A mapping of emoji names to their characters, as well as images.",
+  "moduleType": [
+    "node"
+  ],
+  "keywords": [
+    "emoji",
+    "characters"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "dev",
+    "node_modules",
+    "bower_components",
+    "build.js",
+    "emoji-characters.js",
+    "syllable_override.json",
+    "syllables.json",
+    "template.js",
+    "type_overrides.json"
+  ]
+}
